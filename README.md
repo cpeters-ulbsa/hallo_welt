@@ -1,0 +1,1 @@
+Beispielrepository für Git-Schulung.
